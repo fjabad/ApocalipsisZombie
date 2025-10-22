@@ -17,3 +17,14 @@ Hay dos personajes jugables. Serán un chico y una chica y se pueden seleccionar
 ## Misiones
 
 Tienen que completar una misión por cada falla.
+
+## Puntos de guardado
+
+Los puntos de guardado son las fallas
+
+## Recolectables
+
+El jugador podrá recoger petardos, agua de Valencia y calimocho.
+
+
+
