@@ -15,6 +15,13 @@ Habrá un nivel por cada día de Fallas.
 Hay dos personajes jugables. Serán un chico y una chica y se pueden seleccionar al principio del juego.
 
 
+## Puntos de guardado
+
+Los puntos de guardado son las fallas
+
 ## Recolectables
 
 El jugador podrá recoger petardos, agua de Valencia y calimocho.
+
+
+
