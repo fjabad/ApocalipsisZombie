@@ -26,5 +26,6 @@ Los puntos de guardado son las fallas
 
 El jugador podrá recoger petardos, agua de Valencia y calimocho.
 
+## Max
 
-
+Bonjour les zombies, je suis Max !!
